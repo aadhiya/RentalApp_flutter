@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "548704032594",
+    "project_id": "renteasy-a2dea",
+    "storage_bucket": "renteasy-a2dea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548704032594:android:5b7fb1a93d609c97a94c8b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-USV6u77mn1Opzhy_7aYK2j-_GmNBBsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548704032594:android:528ec2f8832ea762a94c8b",
+        "android_client_info": {
+          "package_name": "com.example.rentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-USV6u77mn1Opzhy_7aYK2j-_GmNBBsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
